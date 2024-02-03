@@ -31,6 +31,8 @@ module.exports = {
         "greeny-3": "#71b8ad",
         "greeny-4": "#c3dab8",
         "bluey-1": "#233d5c",
+        "orange-bp": "#f39200",
+        "orange-bp-faded": "#f1c12e",
       },
     },
   },
